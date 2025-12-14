@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "title": "Hol eszünk gyrost?",
+      "choices": [
+        {
+          "text": "Szekszi barátnőm mesztelen hátáról",
+          "value": 5
+        },
+        {
+          "text": "Kőfalon ülve, pergetve mindenfele",
+          "value": 4
+        },
+        {
+          "text": "Késses, villával, aranytányérból",
+          "value": 3
+        },
+        {
+          "text": "A padlóról kézzel lábbal",
+          "value": 2
+        },
+        {
+          "text": "Nem szeretem a gyrost",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title": "Mi van egy jó gyrosban?",
+      "choices": [
+        {
+          "text": "Patkányhús",
+          "value": 4
+        },
+        {
+          "text": "Hasmenés",
+          "value": 5
+        },
+        {
+          "text": "Tofu",
+          "value": 2
+        },
+        {
+          "text": "Az a fehér szósz",
+          "value": 3
+        },
+        {
+          "text": "Szeretet",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "title": "Mikor eszünk gyrost?",
+      "choices": [
+        {
+          "text": "Amikor a szobatársunknak is van.",
+          "value": 1
+        },
+        {
+          "text": "Mikor van pénzünk.",
+          "value": 2
+        },
+        {
+          "text": "Mindig.",
+          "value": 3
+        },
+        {
+          "text": "Hajnali kettőkor szigorúan.",
+          "value": 5
+        },
+        {
+          "text": "Mikor nyer a Fidesz",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "title": "Melyik a finom gyros?",
+      "choices": [
+        {
+          "text": "Mesterszakácsok által precízen összerakott gurmé",
+          "value": 1
+        },
+        {
+          "text": "Amit egy jó kis sarki kiződében raknak össze",
+          "value": 3
+        },
+        {
+          "text": "Mindig az.",
+          "value": 4
+        },
+        {
+          "text": "Khm kebab",
+          "value": 2
+        },
+        {
+          "text": "Az összes, nincs kivétel",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "title": "Mit adsz egy gyrosért.",
+      "choices": [
+        {
+          "text": "Gyrost csakis meghívásos alapon fogadok el.",
+          "value": 0
+        },
+        {
+          "text": "1500Ft Többet nem",
+          "value": 1
+        },
+        {
+          "text": "Az életemet",
+          "value": 5
+        },
+        {
+          "text": "Ammenyit ért",
+          "value": 0
+        },
+        {
+          "text": "max 5000Ft",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "title": "Látsz egy magányos gyrost.. mit csinálsz?",
+      "choices": [
+        {
+          "text": "When there is a bowl, there is a goal.",
+          "value": 5
+        },
+        {
+          "text": "Megvárom a tulaját, majd felrugom",
+          "value": 1
+        },
+        {
+          "text": "5 minute szabály, ha nem kön érte senki.... well",
+          "value": 3
+        },
+        {
+          "text": "Ráfosok, hogy senkié se lehessen",
+          "value": 0
+        },
+        {
+          "text": "Megvárom a tulajt. Majd megeszem. A gyrost is.",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "title": "Ha ön gyrost keresne, hol keresné?",
+      "choices": [
+        {
+          "text": "Ahol nagy a tömeg.",
+          "value": 3
+        },
+        {
+          "text": "Web alkalmazásokon",
+          "value": 2
+        },
+        {
+          "text": "Nem kell keresni, tudni kell hol van.",
+          "value": 5
+        },
+        {
+          "text": "Csak kövesd az ittas embereket.",
+          "value": 4
+        },
+        {
+          "text": "Egy szép tiszta étteremben, ahol minden patyolatfehér.",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title": "Ha ön gyrost készítene. Hogyan készítené?",
+      "choices": [
+        {
+          "text": "Parizert felvágom...",
+          "value": 1
+        },
+        {
+          "text": "Kesztyű nélkül, retkesen",
+          "value": 5
+        },
+        {
+          "text": "Arabul / Törökül / Görögül, de nemy magyarul",
+          "value": 5
+        },
+        {
+          "text": "Machelin csillagos öltözetben, fancyül",
+          "value": 1
+        },
+        {
+          "text": "Egy 10 cm^2 területen térdelve, koszos ruházatban.",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "title": "Mi fontos egy gyrosban?",
+      "choices": [
+        {
+          "text": "Legyen má azé minőségi.",
+          "value": 1
+        },
+        {
+          "text": "Hogy legyen",
+          "value": 5
+        },
+        {
+          "text": "Jó szaftos és omlós",
+          "value": 4
+        },
+        {
+          "text": "Legyen higénikus",
+          "value": 2
+        },
+        {
+          "text": "Legyen.... ehető",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "title": "Meki vagy mohamed?",
+      "choices": [
+        {
+          "text": "Meki",
+          "value": 1
+        },
+        {
+          "text": "Mohamed",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "title": "Hogyan mondod másként hogy gyros?",
+      "choices": [
+        {
+          "text": "Egy étel",
+          "value": 1
+        },
+        {
+          "text": "Szerelem.",
+          "value": 3
+        },
+        {
+          "text": "Maohamed",
+          "value": 2
+        },
+        {
+          "text": "KÉSZÍTSD MÁR GYORSABBAN TE QUTYA!",
+          "value": 5
+        }
+      ]
+      },
+        {
+      "title": "Ki fedezte fel a gyrost",
+      "choices": [
+        {
+          "text": "A görögök",
+          "value": 1
+        },
+        {
+          "text": "Az élő és egyetlen Magasságos isten fenn a mennyekben.",
+          "value": 5
+        },
+        {
+          "text": "Zeusz megdugott egy darálthúsos szendvicset",
+          "value": 3
+        },
+        {
+          "text": "Törökök",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

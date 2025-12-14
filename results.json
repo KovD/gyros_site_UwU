@@ -1,0 +1,54 @@
+{
+  "res": [
+    {
+      "Title": "Mohamedián patkánygyros",
+      "Value": "Mikor minden renben van, senkinek se kellesz. De ha le van amortizálva az ember, nálad nincs jobb, és mindig elérhető vagy, ha kellesz ha nem.",
+      "img_num":1
+    },
+    {
+      "Title": "Vegán gyros",
+      "Value": "Sok ember kérdezi... Miért is létezel? De mikor megnyalintják szószod és elrágcsálják húsodat... Finom vagy",
+      "img_num":2
+    },
+    {
+      "Title": "Gyrosos Pizza",
+      "Value": "Jó vagy, jó vagy... De mégse vagy egy igazi gyros. De mi így szeretünk (nem is)",
+      "img_num":3
+    },
+    {
+      "Title": "Kuvvadrága gyros",
+      "Value": "Mi a tökért kerülsz te 6000Ft-ba? Ki bántott? Nem éred me a szegényekkel? Te fidesznyik gyros.",
+      "img_num":4
+    },
+    {
+      "Title": "Old reliable jo kis csipos",
+      "Value": "Mindig ott vagy, és finom vagy. Nem vagy túl jó minőségű, de ott leszel és olcsó leszel.",
+      "img_num":5
+    },
+    {
+      "Title": "Nyirosz",
+      "Value": "Igazi magyar vagy. Igazi magyar. elloptad a gyros ötletet és bővítetted. Otthonod nyíregyháza. Ha kérdezik mi vagy.... ne válaszolj.",
+      "img_num":10
+    },
+    {
+      "Title": "Minőségi pittás",
+      "Value": "Szereted az eleganciát, de nem vagy puccos. Megköveteled ami megjár, de nem vagy nagyra törő.",
+      "img_num":6
+    },
+    {
+      "Title": "Tankerhajó gyros",
+      "Value": "Ha már megteheted, mindenből a legnagyobbat? Kevesebbet érdemelsz? NEM! Az összes nekem, minden ide! Baj ez? Nah. Mert megérdemled.",
+      "img_num":7
+    },
+    {
+      "Title": "Gyrostál",
+      "Value": "Boldog vezére vagy a pita vs tál háborúnak. Nem kételkedsz magadban. Látod értékeidet, és nem érdekel, ha valaki lekicsinyel.",
+      "img_num":8
+    },
+    {
+      "Title": "GODGYROS",
+      "Value": "Az eredeti vagy! Örrökké büszkén mondhatod hogy te vagy a király... A többi koppintás??? Pffff csak te és te örökre. A többiek heverjenek a lábad előtt.",
+      "img_num":9
+    }
+  ]
+}
