@@ -8,7 +8,6 @@ body{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    cursor: url("../cursor.png"), auto;
 }
 
 #dark{
@@ -107,14 +106,14 @@ image{
 }
 
 .sidePic{
-    width: min(50%, 20%);
+    width: min(50%, 25%);
     height: auto;
 }
 
 #qh{
     font-weight: bold;
-    font-size: clamp(0.1rem, calc(5vw + 1rem), 1.5rem);
-    margin-bottom: 0.5em;
+    font-size: clamp(0.1rem, calc(7vw + 1rem), 2.5rem);
+    margin-bottom: 0.3em;
 }
 
 #rflex{
@@ -135,9 +134,21 @@ image{
 
 @media (max-width: 900px) {
     #flex{
+        margin: 0.1%;
         flex-direction: column;
+        justify-content: center;
         padding: min(2em, 5%);
+        font-size: 0.5rem;
         gap: min(2em, 1%);
+    }
+
+    button{
+        margin: 1%;
+    }
+
+    #qh{
+        margin-bottom: 0px;
+        font-size: 1.2rem;
     }
 
     #radio{
@@ -151,4 +162,9 @@ image{
     #finImg{
         width: 40%;
     }
+
+    #radio{
+    margin: min(0.3em, 1%);
+    font-size: 1rem;
+}
 }
